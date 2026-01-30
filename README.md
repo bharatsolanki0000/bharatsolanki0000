@@ -1,5 +1,5 @@
 # 💫 About Me:
- Learning and applying Machine Learning concepts  
+- Learning and applying Machine Learning concepts  
 - Exploring Deep Learning, Computer Vision, and NLP  
 - Working on end-to-end AI/ML projects  
 - Strengthening my DSA problem-solving skills  <br>
