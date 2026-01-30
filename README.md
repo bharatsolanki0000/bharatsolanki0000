@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am currently a AI-ML student working and learning about AI-ML <br>I have strong foundations in Data Structure and Algorithms<br>
+ Learning and applying Machine Learning concepts  
+- Exploring Deep Learning, Computer Vision, and NLP  
+- Working on end-to-end AI/ML projects  
+- Strengthening my DSA problem-solving skills  <br>
 
 
 ## 🌐 Socials:
